@@ -10,9 +10,3 @@ void set_string(char **s, char *to)
 {
 	*s = to;
 }
-
-
-
-101-crackme_password
-
-abc123
